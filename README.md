@@ -1,3 +1,6 @@
+Pode me encontrar nas redes<br>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Fwww.twitter.com%2F_ygor_">
+
 ### Hi there 👋
 
 <!--
